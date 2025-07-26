@@ -79,7 +79,7 @@ Dastur ishga tushgandan so'ng, barcha tahlillar va grafiklar ekranda paydo bo'la
 
 ## ✒️ Muallif
 
-- **[Sizning Ismingiz]**
-- **Portfolio:** [Portfolio saytingizga havola (agar mavjud bo'lsa)]
-- **LinkedIn:** [LinkedIn profilingizga havola]
-- **GitHub:** [@your-github-username]
+- **Akbarshoh Toshpo'latov**
+- **My web-site:** [akbarshohdev.uz]
+- **LinkedIn:** [https://www.linkedin.com/in/akbarshoh-toshpo-latov-3b1685274/]
+- **GitHub:** [https://github.com/SaadYucuf]
