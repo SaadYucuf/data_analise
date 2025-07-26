@@ -1,0 +1,15 @@
+# Data Science & Machine Learning Core Libraries
+pandas
+numpy
+scikit-learn
+xgboost
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Data Sourcing from Kaggle
+kagglehub
+
+# Report Generation
+python-docx
