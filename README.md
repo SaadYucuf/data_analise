@@ -80,6 +80,6 @@ Dastur ishga tushgandan so'ng, barcha tahlillar va grafiklar ekranda paydo bo'la
 ## ✒️ Muallif
 
 - **Akbarshoh Toshpo'latov**
-- **My web-site:** [akbarshohdev.uz]
+- **My web-site:** [https://akbarshohdev.uz/]
 - **LinkedIn:** [https://www.linkedin.com/in/akbarshoh-toshpo-latov-3b1685274/]
 - **GitHub:** [https://github.com/SaadYucuf]
